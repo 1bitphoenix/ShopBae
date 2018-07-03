@@ -20,7 +20,7 @@ class ShoppingListPage extends StatelessWidget {
           title: Center(
             child: Text('ShopBae'),
           ),
-          backgroundColor: Colors.deepPurple,
+          backgroundColor: Colors.deepPurpleAccent,
         ),
       ),
     );
