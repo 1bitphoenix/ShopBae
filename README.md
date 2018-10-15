@@ -1,2 +1,2 @@
 # ShopBae
-A shopping app made with flutter
+A shopping app demo made with flutter
