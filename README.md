@@ -1,4 +1,4 @@
 # ShopBae
 A shopping app demo made with flutter
 
-![6](https://onedrive.live.com/?authkey=%21AHmptUZ4KN4KVr4&cid=C8F8337F7DB558F9&id=C8F8337F7DB558F9%21679&parId=root&o=OneUp)
+<img src = "https://user-images.githubusercontent.com/29941303/49532767-48f3c500-f8e3-11e8-80a7-6da741f065e2.gif" width = "240" height = "360">
